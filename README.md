@@ -2,4 +2,4 @@
 Jupyter Notebooks
 
 
-**Note:** The MN/State data file has been deprecated and is no longer being updated. I you know of a source for state data please let me know!
+Two notebooks are availabie, one for US forecasting, and one for Minnesota forcasting. The Minnesota version is state specific and the state filter can be replace with other states to run regressions to see what the forecast is for them as well.
